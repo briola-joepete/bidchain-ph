@@ -39,3 +39,4 @@ To eliminate bid tampering and improve transparency in local government procurem
 ## How to Build  
 ```bash
 soroban contract build
+![alt text](image.png)
